@@ -1,0 +1,28 @@
+** Drc report for TIME_BASED_RELAY.kicad_pcb **
+** Created on 2026-01-29T18:44:02+0530 **
+
+** Found 5 DRC violations **
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; error
+    @(91.9000 mm, 86.0000 mm): Footprint K4
+    @(80.2500 mm, 91.8500 mm): Footprint H1
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; error
+    @(163.2500 mm, 86.2500 mm): Footprint J5
+    @(165.0000 mm, 91.8333 mm): Footprint H2
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; error
+    @(80.5833 mm, 31.8333 mm): Footprint H3
+    @(91.9000 mm, 34.8500 mm): Footprint K1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(82.3500 mm, 93.7500 mm): Segment of K4 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(82.3500 mm, 42.6000 mm): Segment of K1 on F.Silkscreen
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **

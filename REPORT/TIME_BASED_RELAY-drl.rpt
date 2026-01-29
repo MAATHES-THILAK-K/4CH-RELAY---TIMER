@@ -1,0 +1,30 @@
+Drill report for TIME_BASED_RELAY.kicad_pcb
+Created on 2026-01-29T18:43:46+0530
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'TIME_BASED_RELAY-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.300mm  0.0118"  (21 holes)
+    T2  0.400mm  0.0157"  (32 holes)
+    T3  0.800mm  0.0315"  (7 holes)
+    T4  1.000mm  0.0394"  (4 holes)
+    T5  1.290mm  0.0508"  (4 holes)
+    T6  1.300mm  0.0512"  (8 holes)
+    T7  1.320mm  0.0520"  (16 holes)
+    T8  1.980mm  0.0780"  (4 holes)
+    T9  2.200mm  0.0866"  (4 holes)
+
+    Total plated holes count 100
+
+
+Drill file 'TIME_BASED_RELAY-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0

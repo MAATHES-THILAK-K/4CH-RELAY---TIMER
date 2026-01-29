@@ -1,0 +1,17 @@
+ERC report (2026-01-29T18:48:05+0530, Encoding UTF8)
+
+***** Sheet /
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(109.22 mm, 44.45 mm): Global Label '32K'
+[lib_symbol_issues]: The symbol library 'ESP32-C3-MINI-1-N4' was not found at '/home/kmt-universe/Downloads/ESP32-C3-MINI-1-N4/ESP32-C3-MINI-1-N4.kicad_sym'.
+    ; warning
+    @(252.73 mm, 44.45 mm): Symbol U3 [ESP32-C3-MINI-1-N4]
+[no_connect_connected]: Pin with 'no connection' type is connected
+    ; warning
+    @(270.51 mm, 57.15 mm): Symbol U3 Hidden pin 32 [NC, Unconnected, Line]
+    @(270.51 mm, 57.15 mm): Symbol U3 Hidden pin 34 [NC, Unconnected, Line]
+
+***** Sheet /RELAY MODULES/
+
+ ** ERC messages: 3  Errors 0  Warnings 3
